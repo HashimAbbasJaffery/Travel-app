@@ -61,6 +61,19 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
     - lib/assets/images/guy.png
+    - lib/assets/images/magnifying-glass.png
+    - lib/assets/images/beach.png
+    - lib/assets/images/plane.png
+    - lib/assets/images/video-thumbnail.png
+    - lib/assets/images/eye.png
+    - lib/assets/images/home-selected.png
+    - lib/assets/images/home-unselect.png
+    - lib/assets/images/bookmark-selected.png
+    - lib/assets/images/bookmark-unselect.png
+    - lib/assets/images/bell-selected.png
+    - lib/assets/images/bell-unselect.png
+    - lib/assets/images/user-selected.png
+    - lib/assets/images/user-unselect.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
@@ -79,6 +92,10 @@ flutter:
           - asset: lib/assets/fonts/Gellix-Regular.ttf
           - asset: lib/assets/fonts/Gellix-Bold.ttf
             weight: 700
+          - asset: lib/assets/fonts/Gellix-Medium.ttf
+            weight: 500
+          - asset: lib/assets/fonts/Gellix-SemiBold.ttf
+            weight: 600
   #   - family: Schyler
   #     fonts:
   #       - asset: fonts/Schyler-Regular.ttf
